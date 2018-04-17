@@ -1,7 +1,7 @@
 {
   "name": "vwap",
   "version": "0.0.2",
-  "description": "Calculate the Volume Weighted Average Price (VWAP)",
+  "description": "Calculate the Volume-Weighted Average Price (VWAP)",
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
