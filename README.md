@@ -1,6 +1,6 @@
 # vwap
 
-> Calculate the Volume Weighted Average Price
+> Calculate the Volume Weighted Average Price (VWAP)
 
 ## Install
 
